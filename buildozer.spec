@@ -4,7 +4,7 @@
 title = Menu
 
 # (str) Package name
-package.name = menu
+package.name = menuapp
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
